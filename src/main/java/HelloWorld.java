@@ -13,6 +13,6 @@ public class HelloWorld {
      * @return "Hello, world!"
      */
     public String sayHello(){
-        return "Hi, I'm Andy Nguyen";
+        return "Hello, world!";
     }
 }
